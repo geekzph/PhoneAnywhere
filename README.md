@@ -31,5 +31,5 @@
 2、由于新浪微博api调用次数的限制，每分钟只能执行30次命令
 正常运行此软件需安装Microsoft .Net Framework4.0
 
-[博客地址](http://hi.baidu.com/geekzph/item/8330e72e1692240176272c3d)
+[博客地址](http://hi.baidu.com/geekzph/item/63c8c4fd57194bc7531c263d)
 [演示地址](http://www.tudou.com/programs/view/pyyR8wb9R-I/?resourceId=0_06_02_99)
